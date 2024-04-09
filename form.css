@@ -1,0 +1,14 @@
+.center{
+    text-align:center;
+}
+.bg_Argyle{
+    background-image:url("images/bg_Argyle.jpg");
+}
+.recipe{
+    border: 1px solid black;
+    width: 500px;
+    margin-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    background-color: white;
+}

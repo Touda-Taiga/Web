@@ -1,0 +1,17 @@
+.center{
+    text-align:center;
+}
+.bg_Argyle{
+    background-image:url("images/bg_Argyle.jpg");
+}
+.hr{
+    border-bottom: 2px solid green;
+    width: 1600px;
+}
+.hr2{
+    border-top: 2px solid green;
+}
+.flex .image {
+    width: 600px; /*画像サイズ指定*/
+    height: 600px;
+}
